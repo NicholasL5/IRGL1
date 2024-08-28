@@ -9,4 +9,4 @@ Game 1 IRGL 2023 Build
 
 ## Video Demo
 
-[![Video Title](Preview/Screenshot%20(5).png)](Preview/IRGL2-DEMO.mp4)
+[![Video Title](Preview/Screenshot%20(5).png)](Preview/IRGL1-DEMO.mp4)
